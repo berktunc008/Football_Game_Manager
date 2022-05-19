@@ -1,0 +1,14 @@
+C:\Users\Berk\source\repos\ödev2berk\ödev2berk\obj\Debug\ödev2berk.csprojAssemblyReference.cache
+C:\Users\Berk\source\repos\ödev2berk\ödev2berk\obj\Debug\ödev2berk.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\ödev2berk\ödev2berk\bin\Debug\ödev2berk.exe.config
+C:\Users\Berk\source\repos\ödev2berk\ödev2berk\bin\Debug\ödev2berk.exe
+C:\Users\Berk\source\repos\ödev2berk\ödev2berk\bin\Debug\ödev2berk.pdb
+C:\Users\Berk\source\repos\ödev2berk\ödev2berk\obj\Debug\ödev2berk.exe
+C:\Users\Berk\source\repos\ödev2berk\ödev2berk\obj\Debug\ödev2berk.pdb
+C:\Users\Berk\Desktop\ödev2berk\ödev2berk\bin\Debug\ödev2berk.exe.config
+C:\Users\Berk\Desktop\ödev2berk\ödev2berk\bin\Debug\ödev2berk.exe
+C:\Users\Berk\Desktop\ödev2berk\ödev2berk\bin\Debug\ödev2berk.pdb
+C:\Users\Berk\Desktop\ödev2berk\ödev2berk\obj\Debug\ödev2berk.csprojAssemblyReference.cache
+C:\Users\Berk\Desktop\ödev2berk\ödev2berk\obj\Debug\ödev2berk.csproj.CoreCompileInputs.cache
+C:\Users\Berk\Desktop\ödev2berk\ödev2berk\obj\Debug\ödev2berk.exe
+C:\Users\Berk\Desktop\ödev2berk\ödev2berk\obj\Debug\ödev2berk.pdb
